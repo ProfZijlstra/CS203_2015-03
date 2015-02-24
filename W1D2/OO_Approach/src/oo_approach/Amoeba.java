@@ -1,0 +1,27 @@
+/*
+ * To change this license header, choose License Headers in Project Properties.
+ * To change this template file, choose Tools | Templates
+ * and open the template in the editor.
+ */
+
+package oo_approach;
+
+/**
+ *
+ * @author mzijlstra
+ */
+public class Amoeba extends Shape {
+    private int rotation_x;
+    private int rotation_y;
+     
+    // overwrite rotate code written in the abstract super class
+    public void rotate() {
+        // amoeba rotate
+        // Here i will use my rotation_x and rotation_y
+    }
+    
+    public void playSound() {
+        //
+    }
+    
+}
