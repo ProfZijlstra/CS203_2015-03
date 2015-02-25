@@ -1,2 +1,8 @@
 #Ignore all Java class files
 *.class
+/W1D2/NonOO/nbproject/private/
+/W1D2/OO_Approach/nbproject/private/
+/W1D2/OO_reveal/nbproject/private/
+/W1D2/OO_reveal/build/
+/W1D3/Quiz/nbproject/private/
+/W1D3/Quiz/build/
