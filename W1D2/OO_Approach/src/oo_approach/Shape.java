@@ -11,8 +11,8 @@ package oo_approach;
  * @author mzijlstra
  */
 public abstract class Shape {
-    private int x;
-    private int y;
+    protected int x;
+    protected int y;
     
     public void rotate() {
         // Cirlce, Square and Triangle all rotate in this way
