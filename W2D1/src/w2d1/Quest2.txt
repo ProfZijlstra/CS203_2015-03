@@ -1,0 +1,8 @@
+At breakpoint 6 in Question13.java the stack was:
+
+result
+this
+doThingX------
+s1
+t1
+Main---------
