@@ -1,0 +1,59 @@
+@ Breakpoint 6 in Question13.java
+
+t1
+args
+main------
+
+@ Breakpoint 8 in Question13.java
+
+s1
+a
+t1
+args
+main------
+
+
+@ Breakpoint 14 in Test.java
+
+b
+a
+this
+doThingY--------
+
+a
+t1
+args
+main ----------
+
+
+@ Breakpoint 16 in Test.java
+
+c
+b
+a
+this
+doThingY--------
+
+a
+t1
+args
+main ----------
+
+@ Breakpoint 22 in Test.java
+
+b
+a
+this
+doThingZ----------
+
+c
+b
+a
+this
+doThingY--------
+
+a
+t1
+args
+main ----------
+
