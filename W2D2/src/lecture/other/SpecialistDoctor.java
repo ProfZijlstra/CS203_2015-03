@@ -17,7 +17,7 @@ public class SpecialistDoctor extends lecture.Doctor {
     @Override
     public void treatPatient() {
        System.out.println("Do my special things"); 
-       System.out.println("Works at hospital: " + this.worksAtHospital);
+       //System.out.println("Works at hospital: " + this.worksAtHospital);
     }
 
 }
