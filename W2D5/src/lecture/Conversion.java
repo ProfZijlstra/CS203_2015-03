@@ -11,5 +11,7 @@ package lecture;
  * @author mzijlstra
  */
 public class Conversion {
-    
+    public static void main(String[] args) {
+        Integer a = new Integer(8) + 6;
+    }
 }
