@@ -15,6 +15,7 @@ public class TestGarbageCollector {
         ScaredClass s1 = new ScaredClass("helpless");
         s1 = null;
         
+        System.gc();
         Thread.sleep(5000);
         
         System.out.println("end of the world");
