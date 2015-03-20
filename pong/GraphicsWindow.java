@@ -189,6 +189,7 @@ public class GraphicsWindow {
 		// combine everything on the frame and display
 		frame.add(canvas);
 		frame.pack();
+		frame.setLocationRelativeTo(null);
 		frame.setVisible(true);
 	}
 
